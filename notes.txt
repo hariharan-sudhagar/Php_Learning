@@ -1,0 +1,12 @@
+
+lesson 1:
+
+super global variables 
+
+- these are inbuilt varibale it can be declared once and used anyware inthe project.
+- to create these variables " $_ " means you need to put dollar and underscore with capital letters at first.
+
+For eg:
+$_SERVER["DOCUMENT_ROOT"];
+
+this gives the document root path 
