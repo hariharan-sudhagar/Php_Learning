@@ -46,7 +46,7 @@
     $_SESSION["username"] = "Hariharan";
     echo $_SESSION["username"];
 
-    $_ENV[""]; //SORING ENV DATAS
+    $_ENV[""]; //SORTING ENV DATAS
 
     ?>
 </body>
